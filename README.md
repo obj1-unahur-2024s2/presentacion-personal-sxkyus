@@ -11,4 +11,4 @@ Bienvenidos a
 * Falté a la primera clase, así que estuve como cinco años intentando entender GitHub.
 * Trabajo desde casa; no salgo nunca.
 
-![logo UNAHUR](./assets/)
+![Git.jpg](./assets/git.jpg)
