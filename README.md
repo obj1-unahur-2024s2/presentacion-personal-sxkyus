@@ -1,15 +1,16 @@
-Bienvenidos a
-# Mi presentacion para la materia.
+Mi nombre es 
+## Luciana Ruiz Lena
+![Hi](https://media1.tenor.com/m/BZeFVXMMgh0AAAAC/sad-hi.gif)
 
-```
-Buenas, soy Luciana y actualmente estoy en la carrera de Programación (aunque mi sueño frustrado sea estudiar medicina).
-```
+### Información de poca relevancia:
+* Me dicen Lola (aunque me llame Luciana y no tenga nada que ver el apodo). 
+* Tengo 23 años. 
+* Mi carrera base era medicina, no sé qué hago acá pero me gusta.
+* Trabajo toda la mañana, así que cuando curso estoy así: :zzz:.
 
-## Info sobre mí:
-* Me dicen Lola, aunque no se parezca a mi nombre.
-* Tengo 23 añitos.
-* Falté a la primera clase, así que estuve como cinco años intentando entender GitHub.
-* Trabajo desde casa; no salgo nunca.
-* Sigo sin saber cómo crear la carpeta "assets", pero estoy en eso.
 
-![friends](https://github.com/user-attachments/assets/0ca9d72a-f112-49bf-a6ba-5a50e3d151ff)
+### Información de mucha relevancia:
+
+* [Música bonita](https://www.youtube.com/watch?v=8u1vfsNpVpA) para evangelizar.
+* [Serie inútil](https://www.netflix.com/search?q=glimo&jbv=70155618) pero recomendadísima.
+* [Algo que pueden regalarme para mi cumpleaños](https://i.pinimg.com/736x/0d/a0/b1/0da0b1f763d5ae5a2747a61f5a898ebc.jpg). No optativo.
